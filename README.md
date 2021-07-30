@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola, soy Rocio! 👋
+![portada2](https://user-images.githubusercontent.com/72095395/127581521-02f5746e-13a3-4142-ac0f-61b0ecf7d169.png)
+
 
 <!--
 **rociojuarez/rociojuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
