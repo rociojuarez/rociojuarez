@@ -6,6 +6,27 @@
 
 
 
+```js
+const Developer = () => {
+    const Developer = {
+        name: 'Rocio Ayelen',
+        lastName: 'Juarez',
+        techSkills:['JavaScript', 'React', 'Redux', 
+        'ExpressJS', 'Sequelize', 'NodeJS', 'PostgreSQL', 
+        'Git', 'Bootstrap', 'CSS']
+    }
+
+    return (
+        <div>
+            <h2>Name : {Developer.name}</h2>
+            <h2>LastName :{Developer.lastName}</h2>
+            <h2>Tech Skills: 
+                {Developer.techSkills.map
+            (a => <p>{a + ' '}</p>)}</h2>
+        </div>
+    )
+}
+```
 
 ![Rocio GitHub stats](https://github-readme-stats.vercel.app/api?username=rociojuarez&hide=contribs&count_private=true&show_icons=true&theme=dark)
 
