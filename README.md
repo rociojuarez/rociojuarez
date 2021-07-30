@@ -3,7 +3,6 @@
 
 ![portada_GitHub_rociojuarez](https://user-images.githubusercontent.com/72095395/127585098-afde2eac-f663-4fd9-8b4d-acd0881cef8f.jpg)
 
-Siendo Sonidista profesional y Técnica de pantallas de módulos Led, me apasioné con la idea de comprender cómo funcionan los sistemas y lograr que operen a la perfección. Es por ello que me enamoré del desarrollo web.
 Me caracterizo por ser una persona autodidacta que adquiere constantemente nuevos conocimientos, por eso, actualmente me encuentro cursando el bootcamp Henry y estudiando Técnicatura en Desarrollo de Software, donde puedo ejercitar nuevas tecnologías y desarrollar proyectos, en conjunto o de manera individual.
 
 
