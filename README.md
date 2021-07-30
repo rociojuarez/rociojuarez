@@ -3,7 +3,8 @@
 
 
 
-[![Rocio GitHub stats](https://github-readme-stats.vercel.app/api?username=rociojuarez)](https://github.com/rociojuarez/github-readme-stats)
+![Rocio GitHub stats](https://github-readme-stats.vercel.app/api?username=rociojuarez&hide=contribs&count_private=true)
+
 
 Contactame
 - [LinkedIn](https://www.linkedin.com/in/rocio-ayelen-juarez/)
