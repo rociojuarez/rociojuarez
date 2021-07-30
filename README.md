@@ -1,4 +1,5 @@
-### Hola, soy Rocio! 👋 💻 🎛
+# Hola, mi nombre es Rocio! 👋 💻 🎛
+## Soy Full Stack Developer y Sonidista profesional!
 
 ![portada_GitHub_rociojuarez](https://user-images.githubusercontent.com/72095395/127585098-afde2eac-f663-4fd9-8b4d-acd0881cef8f.jpg)
 
