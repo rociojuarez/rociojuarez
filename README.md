@@ -12,7 +12,8 @@ const Developer = () => {
     const Developer = {
         name: 'Rocio Ayelen',
         lastName: 'Juarez',
-        techSkills:['JavaScript', 'React', 'Redux', 'ExpressJS', 'Sequelize', 'NodeJS', 'PostgreSQL', 'Git', 'Bootstrap', 'CSS']
+        techSkills:['JavaScript', 'React', 'Redux', 'ExpressJS', 'Sequelize', 'NodeJS', 'PostgreSQL', 'Git'
+        , 'Bootstrap', 'CSS']
     }
 
     return (
