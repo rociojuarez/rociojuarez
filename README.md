@@ -30,8 +30,8 @@ const Developer = () => {
 ![Rocio GitHub stats](https://github-readme-stats.vercel.app/api?username=rociojuarez&hide=contribs&count_private=true&show_icons=true&theme=dark)
 
 
-
-Contactame
+____________________________________________________________________
+##Me podes contactar por:
 - [LinkedIn](https://www.linkedin.com/in/rocio-ayelen-juarez/)
 - [Email](juarez.rocio.a@gmail.com)
 
