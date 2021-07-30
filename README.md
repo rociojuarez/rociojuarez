@@ -1,6 +1,7 @@
 ### Hola, soy Rocio! 👋 💻 🎛
 
-![portada_Github](https://user-images.githubusercontent.com/72095395/127584269-37714696-47e8-41b7-a4b5-8ae6a740d24c.png)
+![portada_GitHub_rociojuarez](https://user-images.githubusercontent.com/72095395/127585098-afde2eac-f663-4fd9-8b4d-acd0881cef8f.jpg)
+
 
 
 
