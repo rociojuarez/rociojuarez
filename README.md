@@ -36,7 +36,7 @@ ____________________________________________________________________
 
 <a href="https://www.linkedin.com/in/rocio-ayelen-juarez/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rocio-ayelen-juarez/" height="30" width="40" /></a>
-- [Email](juarez.rocio.a@gmail.com)
+- [📧](juarez.rocio.a@gmail.com)
 
 <!--
 **rociojuarez/rociojuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
