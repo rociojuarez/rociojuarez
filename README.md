@@ -1,6 +1,11 @@
 ### Hola, soy Rocio! 👋
-![portada2](https://user-images.githubusercontent.com/72095395/127581521-02f5746e-13a3-4142-ac0f-61b0ecf7d169.png)
 
+![portada](https://user-images.githubusercontent.com/72095395/127581580-22d35706-d069-4342-a71e-dcf4659cc9d1.jpg)
+
+
+Contacto=
+- [LinkedIn](https://www.linkedin.com/in/rocio-ayelen-juarez/)
+- [Email](juarez.rocio.a@gmail.com)
 
 <!--
 **rociojuarez/rociojuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
