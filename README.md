@@ -31,7 +31,8 @@ const Developer = () => {
 
 
 ____________________________________________________________________
-##Me podes contactar por:
+
+## Me podes contactar por:
 - [LinkedIn](https://www.linkedin.com/in/rocio-ayelen-juarez/)
 - [Email](juarez.rocio.a@gmail.com)
 
